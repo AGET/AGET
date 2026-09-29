@@ -103,7 +103,7 @@ I enjoy turning complex problems into simple, maintainable solutions and working
 
 <div align="center">
 <!--<img width="70%" src="https://streak-stats.demolab.com?user=AGET&theme=dracula&hide_border=true&border_radius=12" />-->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AGET&theme=holi&animation=stagger&name=AGET)
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AGET&theme=holi&animation=stagger&name=AGET" />
 </div>
 
 ---
@@ -112,13 +112,12 @@ I enjoy turning complex problems into simple, maintainable solutions and working
 
 <div align="center">
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AGET&theme=react&hide_border=true&radius=12&area=true" width="95%" />-->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AGET&theme=holi&animation=stagger)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AGET&theme=holi&animation=stagger)
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AGET&theme=holi&animation=stagger" />
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AGET&theme=holi&animation=stagger" />
 </div>
 
----
-
 <!--
+---
 ## 🏆 GitHub Trophies 
 ## 🏆 GitHub Stats
 <div align="center">
