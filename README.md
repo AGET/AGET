@@ -91,22 +91,19 @@ I enjoy turning complex problems into simple, maintainable solutions and working
 
 ---
 
+## 📊 GitHub Profile
+<!--
 ## 📊 GitHub Stats
-
 <div align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AGET&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=12" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGET&layout=compact&langs_count=6&theme=dracula&hide_border=true&border_radius=12" />
-
 </div>
-
+-->
 <br>
 
 <div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=AGET&theme=dracula&hide_border=true&border_radius=12" />
-
+<!--<img width="70%" src="https://streak-stats.demolab.com?user=AGET&theme=dracula&hide_border=true&border_radius=12" />-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AGET&theme=holi&animation=stagger&name=AGET)
 </div>
 
 ---
@@ -114,21 +111,21 @@ I enjoy turning complex problems into simple, maintainable solutions and working
 ## 📈 Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AGET&theme=react&hide_border=true&radius=12&area=true" width="95%" />
-
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AGET&theme=react&hide_border=true&radius=12&area=true" width="95%" />-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AGET&theme=holi&animation=stagger)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AGET&theme=holi&animation=stagger)
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
+<!--
+## 🏆 GitHub Trophies 
+## 🏆 GitHub Stats
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=AGET&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" />
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AGET&theme=holi&animation=stagger)
 </div>
-
+-->
 ---
 
 ## 🤝 Let's Connect
