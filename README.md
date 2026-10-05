@@ -114,7 +114,6 @@ I enjoy turning complex problems into simple, maintainable solutions and working
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AGET&theme=react&hide_border=true&radius=12&area=true" width="95%" />-->
 <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AGET&theme=holi&animation=stagger" />
 <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AGET&theme=holi&animation=stagger" />
-<img width="30%" src="metrics.plugin.lines.svg" />
 </div>
 
 <!--
@@ -126,6 +125,9 @@ I enjoy turning complex problems into simple, maintainable solutions and working
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AGET&theme=holi&animation=stagger)
 </div>
 -->
+## 📈 Languages
+<img width="100%" heigth="20%" src="metrics.plugin.lines.svg" />
+
 ---
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
