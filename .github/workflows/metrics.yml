@@ -1,0 +1,14 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # Se actualiza una vez al día
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.lines.svg
+          token: ${{ SECRETS.METRICS_TOKEN }}
+          # Habilita el plugin de líneas de código
+          plugin_lines: yes
