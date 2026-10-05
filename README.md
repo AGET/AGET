@@ -127,6 +127,9 @@ I enjoy turning complex problems into simple, maintainable solutions and working
 </div>
 -->
 ---
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+---
 
 ## 🤝 Let's Connect
 
