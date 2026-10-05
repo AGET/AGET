@@ -138,6 +138,10 @@ TypeScript   7 mins                ⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿
 ```
 
 <!--END_SECTION:waka-->
+<div align="center">
+    <a href="https://wakatime.com/@e856c134-b4f9-4e2c-ba63-7d54adf1a324"><img src="https://wakatime.com/badge/user/e856c134-b4f9-4e2c-ba63-7d54adf1a324.svg" alt="Total time coded since Oct 4 2026" /></a>
+</div>  
+
 ---
 
 ## 🤝 Let's Connect
