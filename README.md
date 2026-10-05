@@ -129,8 +129,8 @@ I enjoy turning complex problems into simple, maintainable solutions and working
 <img width="100%" heigth="20%" src="metrics.plugin.lines.svg" />
 
 ---
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ## 🤝 Let's Connect
