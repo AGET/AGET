@@ -126,7 +126,9 @@ I enjoy turning complex problems into simple, maintainable solutions and working
 </div>
 -->
 ## 📈 Languages
-<img width="100%" heigth="20%" src="metrics.plugin.lines.svg" />
+<div align="center">
+    <img src="metrics.plugin.lines.svg" />
+</div>div>
 
 ---
 <!--START_SECTION:waka-->
