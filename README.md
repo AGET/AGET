@@ -136,7 +136,10 @@ I enjoy turning complex problems into simple, maintainable solutions and working
 ```txt
 From: 28 September 2026 - To: 05 October 2026
 
-TypeScript   7 mins                ⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿   100.00 %
+XML          1 hr 12 mins          ⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   57.65 %
+JSON         34 mins               ⢿⢿⢿⢿⢿⢿⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   27.63 %
+Other        11 mins               ⢿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   08.96 %
+TypeScript   7 mins                ⢿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   05.77 %
 ```
 
 <!--END_SECTION:waka-->
