@@ -23,3 +23,9 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           BLOCKS: "⣿⣾⣿⣽⣻⢿⡿⣟⣯⢿"
+          IGNORED_LANGUAGES: "Other"
+          TIME_RANGE: "all_time"
+          LANG_COUNT: 20
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          CODE_LANG: python # optional
