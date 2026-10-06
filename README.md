@@ -133,13 +133,20 @@ I enjoy turning complex problems into simple, maintainable solutions and working
 ---
 <!--START_SECTION:waka-->
 
-```txt
-From: 28 September 2026 - To: 05 October 2026
+```python
+From: 08 August 2026 - To: 05 October 2026
 
-XML          1 hr 12 mins          ⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   57.65 %
-JSON         34 mins               ⢿⢿⢿⢿⢿⢿⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   27.63 %
-Other        11 mins               ⢿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   08.96 %
-TypeScript   7 mins                ⢿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   05.77 %
+Total Time: 5 hrs 52 mins
+
+XML          2 hrs 49 mins         ⢿⢿⢿⢿⢿⢿⢿⢿⢿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   38.14 %
+JSON         1 hr 20 mins          ⢿⢿⢿⢿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   17.98 %
+C#           1 hr 1 min            ⢿⢿⢿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   13.72 %
+Kotlin       23 mins               ⢿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   05.30 %
+TypeScript   8 mins                ⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   01.91 %
+Markdown     7 mins                ⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   01.63 %
+TOML         1 min                 ⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   00.39 %
+TSConfig     0 secs                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   00.15 %
+Text         0 secs                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   00.00 %
 ```
 
 <!--END_SECTION:waka-->
