@@ -33,7 +33,7 @@ jobs:
           plugin_languages_aliases: javascript:JS typescript:TS
 
           # Análisis profundo
-          plugin_languages_indepth: true
+          #plugin_languages_indepth: true
 
           # Información mostrada
           plugin_languages_details: lines, bytes-size, percentage
