@@ -1,10 +1,8 @@
 name: GitHub Metrics
 
 on:
-  # Ejecutar manualmente
   workflow_dispatch:
 
-  # Actualizar automáticamente cada día
   schedule:
     - cron: "0 0 * * *"
 
@@ -12,47 +10,38 @@ permissions:
   contents: write
 
 jobs:
-  metrics:
+  languages:
     runs-on: ubuntu-latest
 
     steps:
       - name: Languages and lines
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.plugin.lines.svg
+          filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # No incluir las métricas base
           base: ""
 
-          # Líneas de código
           plugin_lines: true
 
-          # Lenguajes
           plugin_languages: true
           plugin_languages_aliases: javascript:JS typescript:TS
-
-          # Análisis profundo
-          #plugin_languages_indepth: true
-
-          # Información mostrada
           plugin_languages_details: lines, bytes-size, percentage
-
-          # Evita que un análisis excesivamente lento bloquee el workflow
           plugin_languages_analysis_timeout: 15
 
       - name: Recently used languages
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.plugin.lines.recent.svg
+          filename: metrics.plugin.languages.recent.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Solo el plugin de lenguajes
           base: ""
 
           plugin_languages: true
-
-          # Lenguajes usados recientemente
           plugin_languages_sections: recently-used
+
+          # 400 eventos como máximo
           plugin_languages_recent_load: 400
+
+          # Últimos 14 días
           plugin_languages_recent_days: 14
