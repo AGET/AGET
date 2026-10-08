@@ -17,7 +17,7 @@ jobs:
       - name: Languages and lines
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.plugin.languages.svg
+          filename: metrics.plugin.lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
           base: ""
@@ -32,7 +32,7 @@ jobs:
       - name: Recently used languages
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.plugin.languages.recent.svg
+          filename: metrics.plugin.lines.recent.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
           base: ""
