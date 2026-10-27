@@ -134,7 +134,7 @@ I enjoy turning complex problems into simple, maintainable solutions and working
 <!--START_SECTION:waka-->
 
 ```python
-From: 08 August 2026 - To: 25 October 2026
+From: 08 August 2026 - To: 26 October 2026
 
 Total Time: 97 hrs 3 mins
 
